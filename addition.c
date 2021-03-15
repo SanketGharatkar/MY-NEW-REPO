@@ -11,6 +11,13 @@ int main()
 
     printf("Sum : %d\n", sum);
     printf("Shanky");
+printf("Shanky");
+printf("Shanky");
+printf("Shanky");
+printf("Shanky");
+printf("Shanky");
+printf("Shanky");
+printf("Shanky");
 
     return (0);
 }
